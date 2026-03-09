@@ -13,7 +13,7 @@ if (!isset($_SESSION['user_logged_in']) || $_SESSION['user_logged_in'] !== true)
 }
 
 require_once 'koneksi.php';
-require_once __DIR__ . '/lib/upload_foto_barang.php';
+require_once __DIR__ . '/upload_foto_barang.php';
 
 $page_title = "Edit Barang";
 

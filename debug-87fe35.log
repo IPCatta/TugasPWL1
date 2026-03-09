@@ -2,3 +2,7 @@
 {"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"D","location":"tambahDataBarang.php","message":"page entry","data":{"method":"GET","logged_in":true},"timestamp":1773027438874}
 {"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"D","location":"tambahDataBarang.php","message":"page entry","data":{"method":"GET","logged_in":true},"timestamp":1773027453715}
 {"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"A","location":"bingkai/menu.php","message":"menu.php included","data":{"php_self":"/tampilDataBarang.php","has_koneksi":true,"session_status":2,"has_session":true},"timestamp":1773027455878}
+{"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"A","location":"bingkai/menu.php","message":"menu.php included","data":{"php_self":"/TugasPWL1/index.php","has_koneksi":true,"session_status":2,"has_session":true},"timestamp":1773030868400}
+{"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"A","location":"bingkai/menu.php","message":"menu.php included","data":{"php_self":"/TugasPWL1/tampilDataBarang.php","has_koneksi":true,"session_status":2,"has_session":true},"timestamp":1773030879058}
+{"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"D","location":"tambahDataBarang.php","message":"page entry","data":{"method":"GET","logged_in":true},"timestamp":1773030879680}
+{"sessionId":"87fe35","runId":"pre-fix","hypothesisId":"A","location":"bingkai/menu.php","message":"menu.php included","data":{"php_self":"/TugasPWL1/koreksiDataBarang.php","has_koneksi":true,"session_status":2,"has_session":true},"timestamp":1773030988622}
